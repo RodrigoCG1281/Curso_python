@@ -1,1 +1,4 @@
-print("Hola mundo")
+saludo = "Hola "
+nombre = "Rodrigo"
+
+print(saludo + nombre)
